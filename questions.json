@@ -1,0 +1,62 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "8 apples are shared between 4 friends. How many apples will each friend get?<br><img width='70%' src='./images/1.jpg'>",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "If you have 8 apples to share with 4 friends, you want each friend to get the same amount of apples. Start by giving each friend one apple at a time until the apples are gone. Each friend will end up with 2 apples.<br><img width='70%' src='./images/1.jpg'>"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "10 cookies are shared between 2 friends. How many cookies does each friend get?<br><img width='70%' src='./images/2.jpg'>",
+        "options": [
+            "3 cookies",
+            "4 cookies",
+            "5 cookies",
+            "6 cookies"
+        ],
+        "correct": 2,
+        "explanation": "To share 10 cookies equally between 2 friends, give each friend one cookie at a time until all the cookies are shared. When you finish sharing, each friend will have 5 cookies."
+    },
+    {
+        "questionNo": "Q3",
+        "question": "6 balloons are shared between 3 kids. How many balloons does each kid get?<br><img width='70%' src='./images/3.jpg'>",
+        "options": [
+            "3 balloons",
+            "6 balloons",
+            "4 balloons",
+            "2 balloons"
+        ],
+        "correct": 3,
+        "explanation": "If you have 6 balloons to share equally with 3 kids, start by giving each kid one balloon at a time. Keep sharing until each kid has an equal amount. Each kid will end up with 2 balloons."
+    },
+    {
+        "questionNo": "Q4",
+        "question": "12 marbles are shared among 4 kids. How many marbles does each kid get?<br><img width='70%' src='./images/4.jpg'>",
+        "options": [
+            "2 marbles",
+            "4 marbles",
+            "3 marbles",
+            "6 marbles"
+        ],
+        "correct": 2,
+        "explanation": "To share 12 marbles equally among 4 kids, give each kid one marble at a time until you have shared all of them. After sharing all the marbles, each kid will have 3 marbles."
+    },
+    {
+        "questionNo": "Q5",
+        "question": "There are 4 pencils. You want to share them with 2 friends. How many pencils does each friend get?<br><img width='65%' src='./images/5.jpg'>",
+        "options": [
+            "1 pencil",
+            "2 pencils",
+            "4 pencils",
+            "3 pencils"
+        ],
+        "correct": 1,
+        "explanation": "If you want to share 4 pencils with 2 friends so each friend gets an equal amount, give each friend one pencil at a time until you run out. Each friend will get 2 pencils in the end."
+    }
+]
